@@ -1,0 +1,15 @@
+.icon-section {
+  width: 50%; }
+  .icon-section .icon-container {
+    margin-top: 35vh;
+    padding: 30px;
+    display: -webkit-flex;
+    -webkit-flex-wrap: wrap;
+    display: flex;
+    flex-wrap: wrap; }
+    .icon-section .icon-container svg {
+      height: 120px !important;
+      transition: all 0.9s ease;
+      padding: 30px; }
+
+/*# sourceMappingURL=IconSection.css.map */

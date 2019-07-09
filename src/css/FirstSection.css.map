@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,cAAe;EACb,OAAO,EAAE,WAAW;EACrB,OAAO,EAAE,YAAY;EACrB,OAAO,EAAE,SAAS;EAClB,OAAO,EAAE,WAAW;EACpB,OAAO,EAAE,IAAI;EAEZ,wBAAU;IACR,cAAc,EAAE,cAAc;IAC/B,WAAW,EAAE,cAAc;IAC3B,MAAM,EAAE,cAAc;EAGvB,sBAAQ;IACN,cAAc,EAAE,aAAa;IAC9B,WAAW,EAAE,aAAa;IAC1B,MAAM,EAAE,aAAa",
+"sources": ["FirstSection.scss"],
+"names": [],
+"file": "FirstSection.css"
+}

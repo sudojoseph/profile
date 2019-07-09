@@ -1,0 +1,19 @@
+.icon-section {
+  width: 50%;
+
+  .icon-container {
+    margin-top: 35vh;
+    padding: 30px;
+    display: -webkit-flex;
+    -webkit-flex-wrap: wrap;
+    display: flex;
+    flex-wrap: wrap;
+
+    svg {
+      height: 120px!important;
+      transition: all 0.9s ease;
+      padding: 30px;
+
+    }
+  }
+}

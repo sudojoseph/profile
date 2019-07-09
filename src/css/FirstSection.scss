@@ -1,0 +1,19 @@
+.first-section {
+  display: -webkit-box;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flexbox;
+	display: flex;
+
+  .inactive {
+    -webkit-filter: grayscale(90%);
+   -moz-filter: grayscale(90%);
+   filter: grayscale(90%);
+  }
+
+  .active {
+    -webkit-filter: grayscale(0%);
+   -moz-filter: grayscale(0%);
+   filter: grayscale(0%);
+  }
+}
